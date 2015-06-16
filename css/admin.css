@@ -1,0 +1,69 @@
+/* Meta Box Styles*/
+.shapla-metabox-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.shapla-metabox-table th {
+  text-align: left;
+  width: 40%;
+  padding: 10px 0;
+  vertical-align: top;
+}
+
+.shapla-metabox-table td {
+  padding: 8px 10px;
+}
+
+.shapla-metabox-table label {
+  text-shadow: white 0 1px 0;
+}
+
+.shapla-metabox-table label span {
+  display: block;
+  font-weight: normal;
+  color: #999;
+  margin: 3px 0 0 0;
+}
+
+.shapla-metabox-table input[type="text"], .shapla-metabox-table textarea {
+  width: 100%;
+}
+
+.shapla-metabox-table .file{
+  width: 86.45% !important;
+}
+
+.shapla-box-file .file {
+  width: 77% !important;
+}
+
+#side-sortables .shapla-metabox-table input[type="text"],
+#side-sortables .shapla-metabox-table textarea {
+  width: 100%;
+}
+
+.shapla-metabox-table tr {
+  border-top: 1px solid #ececec;
+}
+
+.shapla-metabox-table label.radio-label {
+  margin-right: 10px;
+}
+
+.shapla-metabox-table .wp-color-picker {
+  width: 80px !important;
+}
+
+.shapla-gallery-thumbs {
+  margin-top: 20px;
+  clear: left;
+}
+
+.shapla-gallery-thumbs li {
+  float: left;
+  margin-right: 10px;
+}
+
+#side-sortables .shapla-metabox-table th{ width: 96%; display: block; padding-left: 0; padding-right: 0; }
+#side-sortables .shapla-metabox-table td{ width: 96%; display: block; padding-left: 0; padding-right: 0; border-bottom: none; }
